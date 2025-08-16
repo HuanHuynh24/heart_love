@@ -31,37 +31,37 @@ export default function BookFlip() {
           <h1 className="text-2xl font-bold text-white">Ngô Thị Thu Nguyệt</h1>
           <p className="text-white mt-2 text-sm">Bấm vô đây</p>
         </div>
-        <div className="bg-white flex justify-center items-center h-full text-xl font-bold">
+        <div className="bg-white flex justify-center items-center h-full p-5 text-xl font-bold">
           <img alt="" className="h-full" src={a1.src} />
         </div>
-        <div className="bg-yellow-100 flex justify-center items-center h-full">
+        <div className="bg-yellow-100 flex justify-center items-center h-full p-5">
           <img alt="" className="h-full" src={a2.src} />
         </div>
-        <div className="bg-pink-100 flex justify-center items-center h-full">
+        <div className="bg-pink-100 flex justify-center items-center h-full p-5">
           <img alt="" className="h-full" src={a3.src} />
         </div>
-        <div className="bg-pink-100 flex justify-center items-center h-full">
+        <div className="bg-pink-100 flex justify-center items-center h-full p-5">
             Hi Thu Nguyệt
         </div>
-        <div className="bg-pink-100 flex justify-center items-center h-full">
+        <div className="bg-pink-100 flex justify-center items-center h-full p-5">
           <img alt="" className="h-full" src={a3.src} />
         </div>
-        <div className="bg-pink-100 flex justify-center items-center h-full">
+        <div className="bg-pink-100 flex justify-center items-center h-full p-5">
             Quýnh lộn không?
         </div>
-        <div className="bg-green-100 flex justify-center items-center h-full">
+        <div className="bg-green-100 flex justify-center items-center h-full p-5">
           <img alt="" className="h-full" src={a4.src} />
         </div>
-        <div className="bg-pink-100 flex justify-center items-center h-full">
+        <div className="bg-pink-100 flex justify-center items-center h-full p-5">
             Chấp kkk
         </div>
-        <div className="bg-blue-100 flex justify-center items-center h-full">
+        <div className="bg-blue-100 flex justify-center items-center h-full p-5">
           <img alt="" className="h-full" src={a5.src} />
         </div>
-        <div className="bg-white flex justify-center items-center h-full text-xl font-bold">
+        <div className="bg-white flex justify-center items-center h-full p-5 text-xl font-bold">
           <img alt="" className="h-full" src={a6.src} />
         </div>
-        <div className="bg-white flex justify-center items-center h-full text-xl font-bold">
+        <div className="bg-white flex justify-center items-center h-full p-5 text-xl font-bold">
           <img alt="" className="h-full" src={a7.src} />
         </div>
       </HTMLFlipBook>
